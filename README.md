@@ -23,7 +23,7 @@ source venv/bin/activate  # Su Windows usa `venv\Scripts\activate`
 # Installa le dipendenze necessarie:
 
 pip install instaloader colorama
-Utilizzo
+
 # Esegui il programma:
 
 python insta_osint.py
