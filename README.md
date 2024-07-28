@@ -14,26 +14,18 @@ Segui questi passaggi per installare e utilizzare InstaOSINT:
 
 # Clona il repository:
 
-bash
-Copia codice
-git clone https://github.com/your_username/InstaOSINT.git
+git clone https://github.com/skelegamerYT11/InstaOSINT.git
 cd InstaOSINT
 # Crea un ambiente virtuale (opzionale ma consigliato):
 
-bash
-Copia codice
 python -m venv venv
 source venv/bin/activate  # Su Windows usa `venv\Scripts\activate`
 # Installa le dipendenze necessarie:
 
-bash
-Copia codice
 pip install instaloader colorama
 Utilizzo
 # Esegui il programma:
 
-bash
-Copia codice
 python insta_osint.py
 # Segui le istruzioni a schermo:
 
