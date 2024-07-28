@@ -26,7 +26,7 @@ pip install instaloader colorama
 
 # Esegui il programma:
 
-python insta_osint.py
+python instaOSINT.py
 # Segui le istruzioni a schermo:
 
 Inserisci il nome utente dell'account Instagram da analizzare.
